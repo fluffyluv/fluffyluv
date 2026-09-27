@@ -6,18 +6,16 @@
 💬 Hello,
 
 🎓 I'm majoring in Computer Science and minoring in Future Car. 💻🚗  
-📚 I'm currently studying Robotics and AI. 🤖🦾
+📚 I'm currently studying Robotics and SLAM. 🤖🦾
 
 I enjoy sharing what I learn on [my blog](https://cuffyluv.tistory.com/),  
 and I really love playing pixel-art visual novels.([VA-11 HALL-A; my favorite ever...](https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/))  
 
-To everyone who visited here,  
-I hope you have a good day.
+Completed the [Naver Boostcamp AI Tech 8th CV Track](https://boostcamp.connect.or.kr/program_ai.html) (Sep 2025 – Feb 2026).  
+Currently an R&D Intern at a [Spatial AI & Mobility startup](https://vestellalab.com/) (Sep 2026 – Dec 2026).
 
-Completed [Naver Boostcamp AI Tech 8th CV Track(2025.09.01 - 2026.02.11)](https://boostcamp.connect.or.kr/program_ai.html)  
-and have returned to university to continue my studies.
-
-pfp: Satone from the game "Chill with You : Lo-Fi Story"
+pfp: Satone from the game "Chill with You : Lo-Fi Story"  
+To everyone who visited here, I hope you have a good day.
 <!--
 **yeonu0420/yeonu0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
